@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GoshuAspirina
+- 👀 I’m interested in games, programming, hardware
+- 🌱 I’m currently learning Javascript / Python / Html, Css
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me - Goshu#0001
